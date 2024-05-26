@@ -1,0 +1,866 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  18 MAR 2024 15:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**practica4.tex
+(./practica4.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen141
+\enit@toks=\toks17
+\enit@inbox=\box50
+\enit@count@id=\count194
+\enitdp@description=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count267
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
+\ttl@toksa=\toks21
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks22
+\float@box=\box54
+\@float@everytoks=\toks23
+\@floatcapt=\box55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count269
+\lst@gtempboxa=\box56
+\lst@token=\toks24
+\lst@length=\count270
+\lst@currlwidth=\dimen169
+\lst@column=\count271
+\lst@pos=\count272
+\lst@lostspace=\dimen170
+\lst@width=\dimen171
+\lst@newlines=\count273
+\lst@lineno=\count274
+\lst@maxwidth=\dimen172
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count275
+\lst@skipnumbers=\count276
+\lst@framebox=\box57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count279
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count280
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count281
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box58
+)
+(./practica4.aux)
+\openout1 = `practica4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen177
+\scratchbox=\box59
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen178
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 422.52252pt, 89.62709pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=422.52252pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count294
+Package hyperref Info: Link coloring OFF on input line 19.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count295
+)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
+
+(./practica4.out) (./practica4.out)
+\@outlinefile=\write3
+\openout3 = `practica4.out'.
+
+<images//logo.jpg, id=56, 632.3625pt x 321.2pt>
+File: images//logo.jpg Graphic file (type jpg)
+<use images//logo.jpg>
+Package pdftex.def Info: images//logo.jpg  used on input line 22.
+(pdftex.def)             Requested size: 126.75804pt x 64.38098pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.jpg>] (./pr
+actica4.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `practica4.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \newpage
+              [1
+
+]
+<images//enunciado1.png, id=84, 1177.39874pt x 767.86874pt>
+File: images//enunciado1.png Graphic file (type png)
+<use images//enunciado1.png>
+Package pdftex.def Info: images//enunciado1.png  used on input line 53.
+(pdftex.def)             Requested size: 338.0193pt x 220.45006pt.
+ [2 <./images//enunciado1.png>]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+<images//ej1.1.1.png, id=92, 1868.9825pt x 1054.94125pt>
+File: images//ej1.1.1.png Graphic file (type png)
+<use images//ej1.1.1.png>
+Package pdftex.def Info: images//ej1.1.1.png  used on input line 71.
+(pdftex.def)             Requested size: 338.0193pt x 190.78267pt.
+[3
+
+ <./images//ej1.1.1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+<images//ej1.1.2_1_a.png, id=99, 928.46875pt x 235.88126pt>
+File: images//ej1.1.2_1_a.png Graphic file (type png)
+<use images//ej1.1.2_1_a.png>
+Package pdftex.def Info: images//ej1.1.2_1_a.png  used on input line 93.
+(pdftex.def)             Requested size: 338.0193pt x 85.87459pt.
+<images//ej1.1.2_1_b.png, id=100, 928.46875pt x 235.88126pt>
+File: images//ej1.1.2_1_b.png Graphic file (type png)
+<use images//ej1.1.2_1_b.png>
+Package pdftex.def Info: images//ej1.1.2_1_b.png  used on input line 94.
+(pdftex.def)             Requested size: 338.0193pt x 85.87459pt.
+<images//ej1.1.2_2.png, id=101, 1868.9825pt x 1074.0125pt>
+File: images//ej1.1.2_2.png Graphic file (type png)
+<use images//ej1.1.2_2.png>
+Package pdftex.def Info: images//ej1.1.2_2.png  used on input line 101.
+(pdftex.def)             Requested size: 338.0193pt x 194.23164pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--102
+
+ []
+
+[4 <./images//ej1.1.2_1_a.png> <./images//ej1.1.2_1_b.png>] [5 <./images//ej1.1
+.2_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+<images//ej1.2_1_a.png, id=119, 835.12pt x 53.19875pt>
+File: images//ej1.2_1_a.png Graphic file (type png)
+<use images//ej1.2_1_a.png>
+Package pdftex.def Info: images//ej1.2_1_a.png  used on input line 148.
+(pdftex.def)             Requested size: 338.0193pt x 21.53238pt.
+<images//ej1.2_1_b.png, id=120, 835.12pt x 47.17625pt>
+File: images//ej1.2_1_b.png Graphic file (type png)
+<use images//ej1.2_1_b.png>
+Package pdftex.def Info: images//ej1.2_1_b.png  used on input line 149.
+(pdftex.def)             Requested size: 338.0193pt x 19.09474pt.
+<images//ej1.2_3_a.png, id=121, 929.4725pt x 212.795pt>
+File: images//ej1.2_3_a.png Graphic file (type png)
+<use images//ej1.2_3_a.png>
+Package pdftex.def Info: images//ej1.2_3_a.png  used on input line 162.
+(pdftex.def)             Requested size: 338.0193pt x 77.3854pt.
+[6 <./images//ej1.2_1_a.png> <./images//ej1.2_1_b.png>]
+<images//ej1.2_3_b.png, id=136, 931.48pt x 236.885pt>
+File: images//ej1.2_3_b.png Graphic file (type png)
+<use images//ej1.2_3_b.png>
+Package pdftex.def Info: images//ej1.2_3_b.png  used on input line 167.
+(pdftex.def)             Requested size: 338.0193pt x 85.96169pt.
+<images//ej1.2_4.png, id=137, 1868.9825pt x 1074.0125pt>
+File: images//ej1.2_4.png Graphic file (type png)
+<use images//ej1.2_4.png>
+Package pdftex.def Info: images//ej1.2_4.png  used on input line 174.
+(pdftex.def)             Requested size: 338.0193pt x 194.23164pt.
+ [7 <./images//ej1.2_3_a.png> <./images//ej1.2_3_b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+
+ []
+
+<images//ej1.2_5.png, id=147, 834.11626pt x 70.2625pt>
+File: images//ej1.2_5.png Graphic file (type png)
+<use images//ej1.2_5.png>
+Package pdftex.def Info: images//ej1.2_5.png  used on input line 183.
+(pdftex.def)             Requested size: 338.0193pt x 28.4733pt.
+[8 <./images//ej1.2_4.png> <./images//ej1.2_5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+<images//ej1.3.1_1_a.png, id=155, 915.42pt x 215.80624pt>
+File: images//ej1.3.1_1_a.png Graphic file (type png)
+<use images//ej1.3.1_1_a.png>
+Package pdftex.def Info: images//ej1.3.1_1_a.png  used on input line 206.
+(pdftex.def)             Requested size: 338.0193pt x 79.6857pt.
+<images//ej1.3.1_1_b.png, id=156, 938.50626pt x 235.88126pt>
+File: images//ej1.3.1_1_b.png Graphic file (type png)
+<use images//ej1.3.1_1_b.png>
+Package pdftex.def Info: images//ej1.3.1_1_b.png  used on input line 207.
+(pdftex.def)             Requested size: 338.0193pt x 84.95677pt.
+<images//ej1.3.1_2.png, id=157, 1861.95625pt x 1090.0725pt>
+File: images//ej1.3.1_2.png Graphic file (type png)
+<use images//ej1.3.1_2.png>
+Package pdftex.def Info: images//ej1.3.1_2.png  used on input line 213.
+(pdftex.def)             Requested size: 338.0193pt x 197.88452pt.
+[9 <./images//ej1.3.1_1_a.png> <./images//ej1.3.1_1_b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+<images//ej1.3.1_3_a.png, id=166, 938.50626pt x 256.96pt>
+File: images//ej1.3.1_3_a.png Graphic file (type png)
+<use images//ej1.3.1_3_a.png>
+Package pdftex.def Info: images//ej1.3.1_3_a.png  used on input line 231.
+(pdftex.def)             Requested size: 338.0193pt x 92.54865pt.
+<images//ej1.3.1_3_b.png, id=167, 938.50626pt x 256.96pt>
+File: images//ej1.3.1_3_b.png Graphic file (type png)
+<use images//ej1.3.1_3_b.png>
+Package pdftex.def Info: images//ej1.3.1_3_b.png  used on input line 232.
+(pdftex.def)             Requested size: 338.0193pt x 92.54865pt.
+[10 <./images//ej1.3.1_2.png>]
+<images//ej1.3.1_4.png, id=174, 1861.95625pt x 1090.0725pt>
+File: images//ej1.3.1_4.png Graphic file (type png)
+<use images//ej1.3.1_4.png>
+Package pdftex.def Info: images//ej1.3.1_4.png  used on input line 239.
+(pdftex.def)             Requested size: 338.0193pt x 197.88452pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--246
+
+ []
+
+[11 <./images//ej1.3.1_3_a.png> <./images//ej1.3.1_3_b.png> <./images//ej1.3.1_
+4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+[12]
+<images//ej1.3.2_1_a.png, id=190, 938.50626pt x 215.80624pt>
+File: images//ej1.3.2_1_a.png Graphic file (type png)
+<use images//ej1.3.2_1_a.png>
+Package pdftex.def Info: images//ej1.3.2_1_a.png  used on input line 284.
+(pdftex.def)             Requested size: 338.0193pt x 77.7264pt.
+<images//ej1.3.2_1_b.png, id=191, 938.50626pt x 236.885pt>
+File: images//ej1.3.2_1_b.png Graphic file (type png)
+<use images//ej1.3.2_1_b.png>
+Package pdftex.def Info: images//ej1.3.2_1_b.png  used on input line 285.
+(pdftex.def)             Requested size: 338.0193pt x 85.31828pt.
+<images//ej1.3.2_2.png, id=192, 1861.95625pt x 1090.0725pt>
+File: images//ej1.3.2_2.png Graphic file (type png)
+<use images//ej1.3.2_2.png>
+Package pdftex.def Info: images//ej1.3.2_2.png  used on input line 292.
+(pdftex.def)             Requested size: 338.0193pt x 197.88452pt.
+ [13 <./images//ej1.3.2_1_a.png> <./images//ej1.3.2_1_b.png> <./images//ej1.3.2
+_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+<images//ej1.3.3_1_a.png, id=202, 938.50626pt x 252.945pt>
+File: images//ej1.3.3_1_a.png Graphic file (type png)
+<use images//ej1.3.3_1_a.png>
+Package pdftex.def Info: images//ej1.3.3_1_a.png  used on input line 322.
+(pdftex.def)             Requested size: 338.0193pt x 91.10258pt.
+<images//ej1.3.3_1_b.png, id=203, 938.50626pt x 236.885pt>
+File: images//ej1.3.3_1_b.png Graphic file (type png)
+<use images//ej1.3.3_1_b.png>
+Package pdftex.def Info: images//ej1.3.3_1_b.png  used on input line 323.
+(pdftex.def)             Requested size: 338.0193pt x 85.31828pt.
+[14]
+<images//ej1.3.3_2.png, id=209, 1856.9375pt x 1090.0725pt>
+File: images//ej1.3.3_2.png Graphic file (type png)
+<use images//ej1.3.3_2.png>
+Package pdftex.def Info: images//ej1.3.3_2.png  used on input line 329.
+(pdftex.def)             Requested size: 338.0193pt x 198.4168pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+
+ []
+
+[15 <./images//ej1.3.3_1_a.png> <./images//ej1.3.3_1_b.png> <./images//ej1.3.3_
+2.png>]
+<images//ej1.3.3_3_a.png, id=218, 938.50626pt x 227.85126pt>
+File: images//ej1.3.3_3_a.png Graphic file (type png)
+<use images//ej1.3.3_3_a.png>
+Package pdftex.def Info: images//ej1.3.3_3_a.png  used on input line 345.
+(pdftex.def)             Requested size: 338.0193pt x 82.06462pt.
+<images//ej1.3.3_3_b.png, id=219, 938.50626pt x 227.85126pt>
+File: images//ej1.3.3_3_b.png Graphic file (type png)
+<use images//ej1.3.3_3_b.png>
+Package pdftex.def Info: images//ej1.3.3_3_b.png  used on input line 346.
+(pdftex.def)             Requested size: 338.0193pt x 82.06462pt.
+<images//ej1.3.3_4.png, id=220, 1856.9375pt x 1090.0725pt>
+File: images//ej1.3.3_4.png Graphic file (type png)
+<use images//ej1.3.3_4.png>
+Package pdftex.def Info: images//ej1.3.3_4.png  used on input line 353.
+(pdftex.def)             Requested size: 338.0193pt x 198.4168pt.
+ [16 <./images//ej1.3.3_3_a.png> <./images//ej1.3.3_3_b.png> <./images//ej1.3.3
+_4.png>] [17]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+<images//enunciado2.png, id=234, 971.63pt x 514.92375pt>
+File: images//enunciado2.png Graphic file (type png)
+<use images//enunciado2.png>
+Package pdftex.def Info: images//enunciado2.png  used on input line 369.
+(pdftex.def)             Requested size: 338.0193pt x 179.13387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--377
+
+ []
+
+[18
+
+ <./images//enunciado2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+[20]
+<images//ej2.1_3_13.png, id=257, 1856.9375pt x 1196.47pt>
+File: images//ej2.1_3_13.png Graphic file (type png)
+<use images//ej2.1_3_13.png>
+Package pdftex.def Info: images//ej2.1_3_13.png  used on input line 461.
+(pdftex.def)             Requested size: 338.0193pt x 217.78343pt.
+<images//ej2.1_3_14.png, id=258, 1856.9375pt x 1196.47pt>
+File: images//ej2.1_3_14.png Graphic file (type png)
+<use images//ej2.1_3_14.png>
+Package pdftex.def Info: images//ej2.1_3_14.png  used on input line 466.
+(pdftex.def)             Requested size: 338.0193pt x 217.78343pt.
+<images//ej2.1_3_15.png, id=259, 1856.9375pt x 1196.47pt>
+File: images//ej2.1_3_15.png Graphic file (type png)
+<use images//ej2.1_3_15.png>
+Package pdftex.def Info: images//ej2.1_3_15.png  used on input line 467.
+(pdftex.def)             Requested size: 338.0193pt x 217.78343pt.
+ [21 <./images//ej2.1_3_13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+[22 <./images//ej2.1_3_14.png> <./images//ej2.1_3_15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 483--485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
+
+ []
+
+<images//ej2.2_3.png, id=272, 1874.00125pt x 1137.24875pt>
+File: images//ej2.2_3.png Graphic file (type png)
+<use images//ej2.2_3.png>
+Package pdftex.def Info: images//ej2.2_3.png  used on input line 512.
+(pdftex.def)             Requested size: 338.0193pt x 205.12976pt.
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 514--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+
+ []
+
+<images//ej2.2_5.png, id=282, 1879.02pt x 1137.24875pt>
+File: images//ej2.2_5.png Graphic file (type png)
+<use images//ej2.2_5.png>
+Package pdftex.def Info: images//ej2.2_5.png  used on input line 531.
+(pdftex.def)             Requested size: 338.0193pt x 204.57446pt.
+[24 <./images//ej2.2_3.png>] [25 <./images//ej2.2_5.png>]
+Chapter 3.
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(./include/tc-ingress.sh
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+)
+(./include/tc-egress-tbh.sh) (./include/tc-egress-tbh-prio.sh
+Overfull \hbox (4.27689pt too wide) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[26
+
+])
+Overfull \hbox (4.27689pt too wide) in paragraph at lines 22--537
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+(./include/tc-egress-htb.sh) (./include/script-r1.sh) (./include/script-r2.sh
+[27]) (./include/script-r3.sh) [28] (./practica4.aux)
+Package rerunfilecheck Info: File `practica4.out' has not changed.
+(rerunfilecheck)             Checksum: 452E9536022C5CF7469FD072DC85EFBB;2881.
+ ) 
+Here is how much of TeX's memory you used:
+ 13429 strings out of 478287
+ 209840 string characters out of 5849289
+ 806537 words of memory out of 5000000
+ 31173 multiletter control sequences out of 15000+600000
+ 477190 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,7n,99p,471b,2008s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on practica4.pdf (29 pages, 3448331 bytes).
+PDF statistics:
+ 578 PDF objects out of 1000 (max. 8388607)
+ 453 compressed objects within 5 object streams
+ 237 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+
